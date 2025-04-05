@@ -18,7 +18,7 @@ To add a new token to the fomo.biz DEX via this list, please follow these steps:
 
 1.  **Fork** this repository (`fomodotbiz/token-lists`) to your own GitHub account.
 2.  **Clone** your forked repository to your local machine.
-3.  **Locate the primary token list JSON file** within the repository structure (e.g., `fomo.tokenlist.json` - **[Verify the exact file name/path in your repo]**).
+3.  **Locate the primary token list JSON file** within the repository structure (`tokens.json`).
 4.  **Add the new token object:**
     *   Carefully add a new JSON object for your token to the `tokens` array within the file.
     *   **Strictly adhere to the following format**, using the correct data types:
