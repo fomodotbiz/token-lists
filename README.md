@@ -1,4 +1,4 @@
-# fomo.biz Community Token List
+# FOMO.BIZ Community Token List
 
 This repository holds the community-maintained list of **additional tokens** for the [fomo.biz DEX](https://fomo.biz/dex) (Decentralized Exchange) operating on the Taraxa network (Chain ID: 841).
 
@@ -54,5 +54,11 @@ Once a token from this list is integrated into the fomo.biz DEX, users will be a
 
 *   🔄 **Swap:** Trade the token against other listed assets.
 *   💧 **Manage Liquidity:** Add or remove liquidity for the token pairs.
+
+## Questions or Issues?
+
+If you encounter any problems while submitting a token or have questions regarding this token list, please reach out to us on Telegram: **@fomodotbiz**
+
+---
 
 Thank you for contributing to the fomo.biz ecosystem on Taraxa!
